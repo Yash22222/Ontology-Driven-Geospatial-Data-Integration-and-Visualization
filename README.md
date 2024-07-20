@@ -1,1 +1,1 @@
-# -Ontology-Driven-Geospatial-Data-Integration-and-Visualization
+# Ontology-Driven-Geospatial-Data-Integration-and-Visualization
