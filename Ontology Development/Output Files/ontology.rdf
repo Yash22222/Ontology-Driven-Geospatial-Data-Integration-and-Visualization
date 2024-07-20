@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://dbpedia.org/ontology/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jerusalem">
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31.7683</ns1:latitude>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.2137</ns1:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Country">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Israel">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <ns1:hasCapital rdf:resource="http://dbpedia.org/resource/Tel_Aviv"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tel_Aviv">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/City"/>
+    <ns1:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.0853</ns1:latitude>
+    <ns1:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.7818</ns1:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Landmark">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/City">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+</rdf:RDF>

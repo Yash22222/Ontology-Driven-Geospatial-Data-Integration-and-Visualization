@@ -1,0 +1,60 @@
+[
+  {
+    "@id": "http://dbpedia.org/resource/Tel_Aviv",
+    "@type": [
+      "http://dbpedia.org/ontology/City"
+    ],
+    "http://dbpedia.org/ontology/latitude": [
+      {
+        "@value": 32.0853
+      }
+    ],
+    "http://dbpedia.org/ontology/longitude": [
+      {
+        "@value": 34.7818
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/ontology/City",
+    "@type": [
+      "http://www.w3.org/2000/01/rdf-schema#Class"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/ontology/Landmark",
+    "@type": [
+      "http://www.w3.org/2000/01/rdf-schema#Class"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Jerusalem",
+    "http://dbpedia.org/ontology/latitude": [
+      {
+        "@value": 31.7683
+      }
+    ],
+    "http://dbpedia.org/ontology/longitude": [
+      {
+        "@value": 35.2137
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Israel",
+    "@type": [
+      "http://dbpedia.org/ontology/Country"
+    ],
+    "http://dbpedia.org/ontology/hasCapital": [
+      {
+        "@id": "http://dbpedia.org/resource/Tel_Aviv"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/ontology/Country",
+    "@type": [
+      "http://www.w3.org/2000/01/rdf-schema#Class"
+    ]
+  }
+]
