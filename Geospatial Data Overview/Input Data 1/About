@@ -1,0 +1,21 @@
+Steps to Download GIS OSM Files
+
+1. Visit Geofabrik's Download Server:
+
+2. Open your web browser and go to Geofabrik's download server. 
+Select the Region:
+
+3. On the Geofabrik homepage, select the region you're interested in. For Israel, you'll find it under the Middle East section.
+Choose Israel and Palestine:
+
+4. Click on the "Israel and Palestine" link to access the data download page for this specific region.
+Download the Shapefiles:
+
+5. On the Israel and Palestine download page, look for the section that lists available shapefiles. These files typically have names like gis_osm_roads_free_1.shp, gis_osm_buildings_a_free_1.shp, etc.
+Click on the desired shapefile links to download them. The files usually come in a ZIP archive containing .shp, .dbf, .prj, and other related files.
+Extract the Files:
+
+6. Once downloaded, extract the ZIP files to a directory on your computer using a tool like WinRAR, 7-Zip, or any other extraction software.
+Load the Shapefiles in Python:
+
+You can use geopandas in Python to load and work with the shapefiles.
