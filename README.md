@@ -72,7 +72,7 @@ Geospatial data provides information about geographic locations and features on 
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You may not use the material for commercial purposes or create derivative works. For more details, see the [LICENSE](LICENSE) file.
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You may not use the material for commercial purposes or create derivative works. For more details, see the [LICENSE](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) file.
 
 
 All rights reserved. No part of this project may be copied, modified, distributed, or used in any way without explicit permission from the author.
