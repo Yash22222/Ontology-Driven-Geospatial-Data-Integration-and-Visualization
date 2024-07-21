@@ -12,7 +12,7 @@ This project focuses on the integration and visualization of geospatial data usi
 
 ### Ontology-Driven Integration and Visual Analytics for Geospatial Data
 
-The project employs ontology-driven techniques to annotate and integrate geospatial data. This approach enhances the semantic understanding and visualization of spatial data. By linking RDF entities with spatial features, the project demonstrates a comprehensive method for ontology-driven data integration and visual analytics.
+The project employs ontology-driven techniques to annotate and integrate geospatial data. This approach enhances the semantic understanding and visualization of spatial data. The project demonstrates a comprehensive method for ontology-driven data integration and visual analytics by linking RDF entities with spatial features.
 
 ## Data Sources
 
@@ -62,6 +62,15 @@ Administrative divisions refer to the different levels of government subdivision
 ### Geospatial Data Overview
 
 Geospatial data provides information about geographic locations and features on Earth's surface. This project encompasses various types of geospatial data, including points of interest, transportation networks, water bodies, and more. The goal is to offer a comprehensive view of the spatial landscape and facilitate informed decision-making.
+
+### Graph Querying
+Once the ontology is created and populated with data (RDF triples), you can query the RDF graph using SPARQL (SPARQL Protocol and RDF Query Language). SPARQL queries enable you to retrieve specific information from the graph, such as finding all cities, getting their names, or exploring relationships between cities.
+
+### Practical Applications
+- **Data Integration**: Combining data from different sources into a unified framework.
+- **Semantic Search**: Enabling more accurate searches based on the meaning of terms.
+- **Data Analysis**: Analyzing relationships and patterns within the data.
+- **Geospatial Visualization**: Creating maps and visual data representations.
 
 ## Additional Resources
 
