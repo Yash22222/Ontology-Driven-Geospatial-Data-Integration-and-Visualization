@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cities>
+    <city>
+        <name>Jerusalem</name>
+        <latitude>31.7683</latitude>
+        <longitude>35.2137</longitude>
+    </city>
+    <city>
+        <name>Tel Aviv</name>
+        <latitude>32.0853</latitude>
+        <longitude>34.7818</longitude>
+    </city>
+    <city>
+        <name>Haifa</name>
+        <latitude>32.7940</latitude>
+        <longitude>34.9896</longitude>
+    </city>
+    <city>
+        <name>Ashdod</name>
+        <latitude>31.8044</latitude>
+        <longitude>34.6553</longitude>
+    </city>
+    <city>
+        <name>Rishon LeZion</name>
+        <latitude>31.9710</latitude>
+        <longitude>34.7894</longitude>
+    </city>
+    <city>
+        <name>Petah Tikva</name>
+        <latitude>32.0840</latitude>
+        <longitude>34.8878</longitude>
+    </city>
+    <city>
+        <name>Netanya</name>
+        <latitude>32.3215</latitude>
+        <longitude>34.8532</longitude>
+    </city>
+    <city>
+        <name>Beersheba</name>
+        <latitude>31.2518</latitude>
+        <longitude>34.7913</longitude>
+    </city>
+    <city>
+        <name>Holon</name>
+        <latitude>32.0158</latitude>
+        <longitude>34.7874</longitude>
+    </city>
+    <city>
+        <name>Bnei Brak</name>
+        <latitude>32.0833</latitude>
+        <longitude>34.8333</longitude>
+    </city>
+</cities>

@@ -1,0 +1,52 @@
+[
+    {
+        "city_name": "Jerusalem",
+        "area": 125.156,
+        "density": 7470.0
+    },
+    {
+        "city_name": "Tel Aviv",
+        "area": 52.0,
+        "density": 8684.6
+    },
+    {
+        "city_name": "Haifa",
+        "area": 63.7,
+        "density": 4454.4
+    },
+    {
+        "city_name": "Ashdod",
+        "area": 47.2,
+        "density": 4782.0
+    },
+    {
+        "city_name": "Rishon LeZion",
+        "area": 58.7,
+        "density": 4338.4
+    },
+    {
+        "city_name": "Petah Tikva",
+        "area": 35.9,
+        "density": 6690.8
+    },
+    {
+        "city_name": "Netanya",
+        "area": 28.5,
+        "density": 7612.5
+    },
+    {
+        "city_name": "Beersheba",
+        "area": 117.5,
+        "density": 1787.4
+    },
+    {
+        "city_name": "Holon",
+        "area": 19.2,
+        "density": 10239.6
+    },
+    {
+        "city_name": "Bnei Brak",
+        "area": 7.2,
+        "density": 28462.5
+    }
+]

@@ -1,0 +1,85 @@
+@prefix CITY: <http://example.org/city/>.
+@prefix GEO: <http://www.opengis.net/ont/geosparql#>.
+@prefix GEONAMES: <http://www.geonames.org/ontology#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+
+CITY:Jerusalem a CITY:City ;
+    rdfs:label "Jerusalem" ;
+    GEO:lat "31.7683" ;
+    GEO:long "35.2137" ;
+    CITY:population "936425" ;
+    CITY:area "125.156" ;
+    CITY:density "7470.0".
+
+CITY:TelAviv a CITY:City ;
+    rdfs:label "Tel Aviv" ;
+    GEO:lat "32.0853" ;
+    GEO:long "34.7818" ;
+    CITY:population "451523" ;
+    CITY:area "52.0" ;
+    CITY:density "8684.6".
+
+CITY:Haifa a CITY:City ;
+    rdfs:label "Haifa" ;
+    GEO:lat "32.7940" ;
+    GEO:long "34.9896" ;
+    CITY:population "283640" ;
+    CITY:area "63.7" ;
+    CITY:density "4454.4".
+
+CITY:Ashdod a CITY:City ;
+    rdfs:label "Ashdod" ;
+    GEO:lat "31.8044" ;
+    GEO:long "34.6553" ;
+    CITY:population "225939" ;
+    CITY:area "47.2" ;
+    CITY:density "4782.0".
+
+CITY:RishonLeZion a CITY:City ;
+    rdfs:label "Rishon LeZion" ;
+    GEO:lat "31.9710" ;
+    GEO:long "34.7894" ;
+    CITY:population "254384" ;
+    CITY:area "58.7" ;
+    CITY:density "4338.4".
+
+CITY:PetahTikva a CITY:City ;
+    rdfs:label "Petah Tikva" ;
+    GEO:lat "32.0840" ;
+    GEO:long "34.8878" ;
+    CITY:population "240322" ;
+    CITY:area "35.9" ;
+    CITY:density "6690.8".
+
+CITY:Netanya a CITY:City ;
+    rdfs:label "Netanya" ;
+    GEO:lat "32.3215" ;
+    GEO:long "34.8532" ;
+    CITY:population "217244" ;
+    CITY:area "28.5" ;
+    CITY:density "7612.5".
+
+CITY:Beersheba a CITY:City ;
+    rdfs:label "Beersheba" ;
+    GEO:lat "31.2518" ;
+    GEO:long "34.7913" ;
+    CITY:population "209687" ;
+    CITY:area "117.5" ;
+    CITY:density "1787.4".
+
+CITY:Holon a CITY:City ;
+    rdfs:label "Holon" ;
+    GEO:lat "32.0158" ;
+    GEO:long "34.7874" ;
+    CITY:population "196282" ;
+    CITY:area "19.2" ;
+    CITY:density "10239.6".
+
+CITY:BneiBrak a CITY:City ;
+    rdfs:label "Bnei Brak" ;
+    GEO:lat "32.0833" ;
+    GEO:long "34.8333" ;
+    CITY:population "204639" ;
+    CITY:area "7.2" ;
+    CITY:density "28462.5".
