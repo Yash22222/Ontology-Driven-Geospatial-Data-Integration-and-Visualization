@@ -1,9 +1,5 @@
 # Ontology-Driven-Geospatial-Data-Integration-and-Visualization
 
----
-
-# Geospatial Data Analysis Project
-
 ## Overview
 
 This project focuses on the integration and visualization of geospatial data using various datasets. The primary goal is to provide insights into different geospatial features and administrative divisions within Israel and Palestine. The project utilizes OpenStreetMap (OSM) extracts and Natural Earth shapefiles to achieve this.
@@ -82,7 +78,7 @@ Once the ontology is created and populated with data (RDF triples), you can quer
 ## License
 
 This project is licensed under the **Apache License 2.0**, with additional restrictions specified in the README.  
-Under this license:
+Under this license:-
 
 - You are not free to use, reproduce, and distribute this project **without prior explicit written permission from the author**.
 - Modification, redistribution, and any form of commercial use are **strictly prohibited** without explicit consent.
