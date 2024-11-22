@@ -81,8 +81,16 @@ Once the ontology is created and populated with data (RDF triples), you can quer
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You may not use the material for commercial purposes or create derivative works. For more details, see the [LICENSE](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) file.
+This project is licensed under the **Apache License 2.0**, with additional restrictions specified in the README.  
+Under this license:
 
+- You are not free to use, reproduce, and distribute this project **without prior explicit written permission from the author**.
+- Modification, redistribution, and any form of commercial use are **strictly prohibited** without explicit consent.
+- Any use of this project must include proper attribution to the author.
+
+For more details on the Apache License 2.0, refer to the official documentation: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
+For permissions or inquiries, **[Contact](https://yashashokshirsath.netlify.app/#contact)**.
 
 All rights reserved. No part of this project may be copied, modified, distributed, or used in any way without explicit permission from the author.
 
